@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">soundpool</string>
-    <string name="button">Button</string>
+    <string name="play">Play</string>
 </resources>
